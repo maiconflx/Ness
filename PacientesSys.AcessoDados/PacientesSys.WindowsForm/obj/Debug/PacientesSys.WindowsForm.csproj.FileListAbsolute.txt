@@ -1,0 +1,9 @@
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.WindowsForm\bin\Debug\PacientesSys.WindowsForm.exe.config
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.WindowsForm\bin\Debug\PacientesSys.WindowsForm.exe
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.WindowsForm\bin\Debug\PacientesSys.WindowsForm.pdb
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.WindowsForm\obj\Debug\PacientesSys.WindowsForm.csprojAssemblyReference.cache
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.WindowsForm\obj\Debug\PacientesSys.WindowsForm.Properties.Resources.resources
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.WindowsForm\obj\Debug\PacientesSys.WindowsForm.csproj.GenerateResource.cache
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.WindowsForm\obj\Debug\PacientesSys.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.WindowsForm\obj\Debug\PacientesSys.WindowsForm.exe
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.WindowsForm\obj\Debug\PacientesSys.WindowsForm.pdb

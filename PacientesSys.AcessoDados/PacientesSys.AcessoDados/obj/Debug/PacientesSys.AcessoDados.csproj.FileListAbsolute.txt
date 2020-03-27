@@ -1,0 +1,11 @@
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\bin\Debug\PacientesSys.AcessoDados.dll.config
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\bin\Debug\PacientesSys.AcessoDados.dll
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\bin\Debug\PacientesSys.AcessoDados.pdb
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\obj\Debug\PacientesSys.AcessoDados.csprojAssemblyReference.cache
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\obj\Debug\PacientesSys.AcessoDados.csproj.CoreCompileInputs.cache
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\obj\Debug\PacientesSys.AcessoDados.csproj.CopyComplete
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\obj\Debug\PacientesSys.AcessoDados.dll
+C:\Users\SnydeR\source\repos\PacientesSys.AcessoDados\PacientesSys.AcessoDados\obj\Debug\PacientesSys.AcessoDados.pdb
